@@ -1,2 +1,4 @@
 *.class
-*.jar
+
+mapping.json
+publish.ps1
